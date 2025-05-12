@@ -3,7 +3,6 @@
 
 #include "config.hpp"
 
-// Concept to restrict T to char or std::string
 template<typename T>
 concept CharOrString = std::is_same_v<T, char> || std::is_same_v<T, std::string>;
 

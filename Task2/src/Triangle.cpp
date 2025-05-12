@@ -6,14 +6,11 @@ vec2::vec2(const vec2& other) : x(other.x), y(other.y) {}
 
 vec2::vec2(vec2&& other) noexcept : x(other.x), y(other.y) {}
 
-// Konstruktor triangle - 3 punkty
 triangle::triangle(vec2 p1, vec2 p2, vec2 p3) : points{p1, p2, p3}, position(0.0f, 0.0f), rotation(0.0f) {}
 
-// Konstruktor triangle - 6 floatów
 triangle::triangle(float x1, float y1, float x2, float y2, float x3, float y3)
     : points{vec2(x1, y1), vec2(x2, y2), vec2(x3, y3)}, position(0.0f, 0.0f), rotation(0.0f) {}
 
-// Konstruktor triangle - tablica
 triangle::triangle(std::array<vec2, 3> pts) : points(pts), position(0.0f, 0.0f), rotation(0.0f) {}
 
 std::array<float, 6> triangle::arrayRepresentation(){
@@ -51,14 +48,12 @@ void triangle::changePosition(float x, float y){
     position.y += y;
 }
 
-// Pomocnicza funkcja do obliczenia normalnej do krawędzi (wektor prostopadły)
 vec2 getNormal(vec2 const& a, vec2 const& b) {
     float dx = b.x - a.x;
     float dy = b.y - a.y;
-    return vec2(-dy, dx); // obrót 90 stopni
+    return vec2(-dy, dx);
 }
 
-// Rzutowanie punktu na oś
 float dot(vec2 const& a, vec2 const& b) {
     return a.x * b.x + a.y * b.y;
 }
@@ -79,7 +74,6 @@ bool isSeparated(vec2 const& axis, std::array<vec2, 3> const& pts1, std::array<v
     return max1 < min2 || max2 < min1;
 }
 
-// Funkcja sprawdzająca kolizję trójkątów przy użyciu SAT
 bool isColliding(triangle const& t1, triangle const& t2) {
     std::array<vec2, 3> pts1 = t1.pointsWithTransition();
     std::array<vec2, 3> pts2 = t2.pointsWithTransition();
