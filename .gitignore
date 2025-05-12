@@ -1,0 +1,44 @@
+# ---- CMake ----
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+_install/
+_install_cache/
+install_manifest.txt
+
+# ---- Visual Studio Code ----
+.vscode/
+.vs/
+*.code-workspace
+
+# ---- OS and editor specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs and temporary files ----
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ---- Compiled binaries and objects ----
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+
+# ---- Coverage / profiling ----
+*.gcno
+*.gcda
+*.gcov
+*.profraw
+*.profdata
