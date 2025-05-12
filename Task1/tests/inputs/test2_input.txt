@@ -1,0 +1,16 @@
+new: Ala ma kota a kot co ma?
+new: Kiedy noca tupta jez czy ty tez?
+new: Czy wiadomo kiedy spada snieg w Egipcie?
+new: Czy dzis bedzie padac?
+new: Czemu mnie nie zamierzacie uratowac?
+new: Ala jest ladna dziewczyna czy mam u niej szanse?
+new: Alaska to kraj?
+new: Czyli czy chili?
+new: Kiedys znajdziemy sens zycia?
+ask: Ala ma kota
+ask: Ala
+ask: Czy dzis
+ask: Cz
+ask: Alas
+ask: Kiedy
+end

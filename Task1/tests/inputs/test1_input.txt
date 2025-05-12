@@ -1,0 +1,4 @@
+new: Kiedy jest nowy rok w Chinach?
+new: Kiedy jest nowy rok w Tajlandii?
+ask: Kiedy jest nowy rok
+end

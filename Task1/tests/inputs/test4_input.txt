@@ -1,0 +1,20 @@
+new: Kiedy jest nowy rok w Chinach?
+
+
+new: Kiedy jest nowy rok w Stanach Zjednoczonych?
+ask: Kiedy jesa nowy rok w Stanach
+
+
+ask: Kiedy jest nowy rok w Satnach
+new: Kiedy mozna isc spac?
+
+
+
+new: Dlaczego spanie mnie nie wysypia?
+new: Dlaczego spanie mniej znaczy w dzien?
+
+
+
+ask: Dlaczego spanie mnij znaczy
+
+end

@@ -1,0 +1,16 @@
+Unknown command: nwe:
+result: Kiedy jest nowy rok w Chinach?
+result: Kiedy jest nowy rok w Tajlandii?
+Unknown command: aks:
+result: Ala idzie do kina a ja gdzie?
+result: Kiedy mam urodziny?
+result: Kiedy mam urodziny?
+result: Kiedy jest nowy rok w Chinach?
+result: Kiedy jest nowy rok w Tajlandii?
+result: Kiedy mam urodziny?
+result: Kiedy jest nowy rok w Chinach?
+result: Kiedy jest nowy rok w Tajlandii?
+result: Kiedy mam urodziny?
+result: Kiedys bylo lepiej czy nie?
+result: Kiedy jest nowy rok w Chinach?
+result: Kiedy jest nowy rok w Tajlandii?

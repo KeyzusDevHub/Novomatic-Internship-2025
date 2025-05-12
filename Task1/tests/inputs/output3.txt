@@ -1,0 +1,9 @@
+Unknown command: nwe:
+Unknown command: aks:
+Unknown command: Ask:
+Unknown command: ask
+Unknown command: new
+Unknown command: edn
+Unknown command: ned:
+Unknown command: den
+Unknown command: end:

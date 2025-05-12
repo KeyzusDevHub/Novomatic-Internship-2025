@@ -1,0 +1,21 @@
+new: Kiedy jest nowy rok w Chinach?
+nwe: Kiedy jest nowy rok w Tajlandii?
+new: Kiedy jest nowy rok w Tajlandii?
+new: Kiedy jest nowy rok w Tajlandii?
+
+
+ask: Kiedy jest nowy rok
+
+new: Ala idzie do kina a ja gdzie?
+new: Kiedy mam urodziny?
+new: Kiedys bylo lepiej czy nie?
+new: Alabaster jest kamieniem?
+
+aks: Ala
+ask: Ala idzei do kina
+ask: Kiedy mamy nowy
+ask: Kiedy zdobede
+ask: Kiedy 
+ask: Kiedy
+
+end
